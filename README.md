@@ -1,7 +1,7 @@
-# Share-Linux-clipboard-to-other-devices-without-cable
+# Share Linux Clipboard To Other Devices Without Cable
 
 
-# I Left the Samsung Ecosystem and Built My Own Linux-to-Android Clipboard Sharing Tool
+## I Left the Samsung Ecosystem and Built My Own Linux-to-Android Clipboard Sharing Tool
 
 As a Samsung device user, I was deep inside the Samsung ecosystem. To be honest, I did not really enjoy it. On top of that, as a software developer, I work with different frameworks and often need to run projects locally. Over time, my PC started feeling slow, and recently I moved to Linux.
 
